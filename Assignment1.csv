@@ -1,0 +1,2 @@
+username,password,repeatedPassword,firstName,lastName,email,phone,address1,city,state,zip,country
+petuser,password,password,firstpet,lastpet,first.last@gmail.com,1234567890,New York,LA,US,90001,USA
